@@ -1,0 +1,9 @@
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\bin\Debug\netstandard2.0\GreenPAK_library.deps.json
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\bin\Debug\netstandard2.0\GreenPAK_library.dll
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\bin\Debug\netstandard2.0\GreenPAK_library.pdb
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.csprojAssemblyReference.cache
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.csproj.CoreCompileInputs.cache
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.AssemblyInfoInputs.cache
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.AssemblyInfo.cs
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.dll
+C:\Users\driedell\source\repos\GreenPAK_to_Verilog\GreenPAK_library\obj\Debug\netstandard2.0\GreenPAK_library.pdb
